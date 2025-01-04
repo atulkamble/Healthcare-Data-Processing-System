@@ -1,5 +1,3 @@
-Here’s the detailed implementation of the **Healthcare Data Processing System** project, including full project code, setup steps, and a sample dataset for testing.
-
 ---
 
 ### **Step 1: Create an Azure Resource Group**
@@ -217,4 +215,3 @@ send_events(data)
 3. **Validate Blob Storage:** Upload and retrieve files via the Azure Portal.
 4. **Simulate Failover:** Test recovery using Azure Backup.
 
-Let me know if you need further details or refinements!
